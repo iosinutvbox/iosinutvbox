@@ -1,0 +1,335 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo=" " ,VTV 6
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv6.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV1 HD s1
+http://113.161.32.30/changed/k/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV1 HD s2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV3 HD s1
+http://113.161.32.30/changed/k/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV3 HD s2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV6 HD s1
+http://113.161.32.30/changed/k/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV6 HD s2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv6.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTV8 HD
+http://113.161.32.30/changed/k/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,QUOC HOI HD
+http://113.161.32.30/changed/k/quochoivn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,QPVN HD
+http://113.161.32.30/changed/r/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV2 s1
+http://113.161.32.30/changed/r/vtv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV2 s2
+http://xmiolive.e14538a7.viettel-cdn.vn/vtv2_p3.stream/chunklist.m3u8
+#EXTINF:-1,VTV4
+http://113.161.32.30/changed/r/vtv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTV9
+http://113.161.32.30/changed/r/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,TTXVN
+http://113.161.32.30/changed/r/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VIETNAMNET
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-vietnamnet.m3u8
+#EXTINF:-1,VOV
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-vovtv.m3u8
+#EXTINF:-1,ANTV s1
+http://113.161.32.30/changed/k/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,ANTV s2
+http://xmiolive.e14538a7.viettel-cdn.vn/antv.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTVCAB1
+http://113.161.32.30/changed/v/giaitritv_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB2
+http://113.161.32.30/changed/v/phimviet_hls.smil/fpt.m3u8
+#EXTINF:-1,VTVCAB3
+http://113.161.32.30/changed/v/thethaotvhd_1000/chunklist.m3u8
+#EXTINF:-1,VTVCAB4
+http://113.161.32.30/changed/v/kenh17_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB5
+http://113.161.32.30/changed/v/echanel_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB6
+http://113.161.32.30/changed/v/haytv_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB7
+http://113.161.32.30/changed/v/ddramas_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB8
+http://113.161.32.30/changed/v/bibi_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB9
+http://113.161.32.30/changed/v/infotv_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB10
+http://113.161.32.30/changed/v/o2tv_1000.stream/fpt.m3u8
+#EXTINF:-1,VTVCAB12
+http://113.161.32.30/changed/v/styletv_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB15
+http://113.161.32.30/changed/v/investtv_1000.stream/chunklist.m3u8
+#EXTINF:-1,VTVCAB16
+http://113.161.32.30/changed/v/bongdatvhd_1000/chunklist.m3u8
+#EXTINF:-1,VTVCAB17
+http://113.161.32.30/changed/v/yeah1tv_1000.stream/chunklist.m3u8
+
+#EXTINF:-1,HTV2 HD
+http://113.161.32.30/changed/k/htv2hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTV7 HD
+http://113.161.32.30/changed/k/htv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTV9 HD
+http://113.161.32.30/changed/k/htv9hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTVC MOVIES HD
+http://113.161.32.30/changed/k/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTVC THUANVIET HD
+http://113.161.32.30/changed/r/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTVC HD
+http://113.161.32.30/changed/r/htvcplushd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTV1 s1
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-htv1.m3u8
+#EXTINF:-1,HTV1 s2
+http://xmiolive.e14538a7.viettel-cdn.vn/htv1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,HTV3 s1
+http://113.161.32.30/changed/k/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTV3 s2
+http://xmiolive.e14538a7.viettel-cdn.vn/htv3.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,HTV4
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-htv4.m3u8
+#EXTINF:-1,HTV7
+http://xmiolive.e14538a7.viettel-cdn.vn/htv7.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,HTVC DU LICH
+http://113.161.32.30/changed/k/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTVC PHU NU
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-htvc-phunu.m3u8
+#EXTINF:-1,HTVC GIA DINH
+http://113.161.32.30/changed/k/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HTVC SHOPPING
+http://113.161.32.30/changed/k/htvcshopping_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,ITV HD s1
+http://113.161.32.30/changed/r/itvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,ITV HD s2
+http://xmiolive.e14538a7.viettel-cdn.vn/itvhd.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,VTC14 HD
+http://113.161.32.30/changed/r/vtc14_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC1
+http://113.161.32.30/changed/r/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC2
+http://113.161.32.30/changed/r/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC4
+http://113.161.32.30/changed/k/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC5
+http://113.161.32.30/changed/r/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC6
+http://113.161.32.30/changed/r/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC7
+http://113.161.32.30/changed/k/vtc7_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC8
+http://113.161.32.30/changed/k/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC9
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-vtc9.m3u8
+#EXTINF:-1,VTC10
+http://113.161.32.30/changed/r/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC11
+http://113.161.32.30/changed/r/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC12
+http://113.161.32.30/changed/k/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC16
+http://113.161.32.30/changed/r/vtc16_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,BTV1
+http://113.161.32.30/changed/k/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BTV2
+http://113.161.32.30/changed/k/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BTV3
+rtmp://112.197.2.135:1935/colive/C068_SD_4
+#EXTINF:-1,BTV5
+rtmp://112.197.2.135:1935/colive/C069_SD_4
+#EXTINF:-1,HANOI1
+http://113.161.32.30/changed/k/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HANOI2
+http://113.161.32.30/changed/k/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,MOV Hanoiab4
+http://xmiolive.e14538a7.viettel-cdn.vn/mov.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,THAI BINH
+http://113.161.32.30/changed/r/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Hoa Binh
+http://123.30.185.126/hls/hoabinh.m3u8
+#EXTINF:-1,CAO BANG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+#EXTINF:-1,Bac Can
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1,THANH HOA
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-thanhhoa.m3u8
+#EXTINF:-1,TUYEN QUANG
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-tuyenquang.m3u8
+#EXTINF:-1,QUANH NINH 1
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-quangninh1.m3u8
+#EXTINF:-1,QUANG NINH 3
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-quangninh3.m3u8
+#EXTINF:-1,NGHE AN
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-nghean.m3u8
+#EXTINF:-1,DA NANG 1 s1
+http://113.161.32.30/changed/k/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, DA NANG 1 s2
+rtmp://112.197.2.135:1935/colive/C060_SD_4
+#EXTINF:-1,DA NANG 2
+http://113.161.32.30/changed/k/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,KHANH HOA
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-khanhhoa.m3u8
+#EXTINF:-1,DONG NAI 1
+http://113.161.32.30/changed/k/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,DONG NAI 2
+http://113.161.32.30/changed/k/dongnai2_hls.smil/fpt.m3u8
+#EXTINF:-1, BA RIA VUNG TAU
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-bariavungtau.m3u8
+#EXTINF:-1,THVL1
+http://113.161.32.30/changed/r/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,THVL2 s1
+http://113.161.32.30/changed/r/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,THVL2 s2
+rtmp://112.197.2.135:1935/colive/C070_SD_4/chunklist.m3u8
+#EXTINF:-1,TIEN GIANG
+http://113.161.32.30/changed/r/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,THTPCT
+http://113.161.32.30/changed/k/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,AN GIANG
+http://113.161.32.30/changed/k/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HAI PHONG
+http://113.161.32.30/changed/k/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BINH DINH
+http://113.161.32.30/changed/k/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,NINH BINH
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-ninhbinh.m3u8
+#EXTINF:-1,GIA LAI
+http://113.161.32.30/changed/k/gialai_1000.stream/chunklist.m3u8
+#EXTINF:-1,QUANG BINH
+http://113.161.32.30/changed/r/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HA GIANG
+http://113.161.32.30/changed/r/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BINH PHUOC 1
+http://stream.anluong.info/d6035575f16a12dd14fec6d53aa9af1422214/fpt-binhphuoc1.m3u8
+#EXTINF:-1,BINH PHUOC 2
+http://113.161.32.30/changed/r/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,YEN BAI
+http://113.161.32.30/changed/k/yenbai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HUNG YEN
+http://113.161.32.30/changed/k/hungyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,THAI NGUYEN
+http://113.161.32.30/changed/k/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BAC NINH
+http://113.161.32.30/changed/k/bacninh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,LAM DONG
+http://113.161.32.30/changed/k/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,DIEN BIEN
+http://113.161.32.30/changed/k/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BINH THUAN
+http://113.161.32.30/changed/k/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,TRA VINH
+http://113.161.32.30/changed/k/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,PHU THO
+http://113.161.32.30/changed/k/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BAC GIANG
+http://113.161.32.30/changed/r/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BEN TRE
+http://113.161.32.30/changed/r/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,DONG THAP
+http://113.161.32.30/changed/r/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,LANG SON
+http://113.161.32.30/changed/r/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,LONG AN
+http://113.161.32.30/changed/r/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,QUANG NAM
+http://113.161.32.30/changed/r/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VINH PHUC
+http://hlscache.fptplay.net.vn/livex/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HAI DUONG
+http://hlscache.fptplay.net.vn/livex/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,QUANG TRI
+http://hlscache.fptplay.net.vn/livex/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,LAO CAI
+http://hlscache.fptplay.net.vn/livex/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,NAM DINH
+http://hlscache.fptplay.net.vn/livex/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,DAK LAK
+http://hlscache.fptplay.net.vn/livex/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,SON LA
+http://hlscache.fptplay.net.vn/livex/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,HA TINH
+http://hlscache.fptplay.net.vn/livex/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BAC LIEU
+http://hlscache.fptplay.net.vn/livex/baclieu_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,KON TUM
+http://hlscache.fptplay.net.vn/livex/kontum_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1,BYN TV 57.3
+http://origin.onworldtv.com:1935/liveorigin/byn/chunklist.m3u8
+#EXTINF:-1,Vietface TV S Channel 54.4
+http://64.71.129.2:8080/hls/ius_000114.m3u8
+#EXTINF:-1,Little Saigon Channel
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+#EXTINF:-1,SChannel 54.4
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+#EXTINF:-1,Viet Bay
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:-1,VStar
+http://origin.onworldtv.com:1935/liveorigin/vstartv/playlist.m3u8
+#EXTINF:-1,SGN
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+#EXTINF:-1,KeengtV
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:-1,VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+
+#EXTINF:-1,Tin Lanh
+http://stream.onworldtv.com/edge/liveorigin/tinlanh/index.m3u8
+#EXTINF:-1,Viet My TV
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+#EXTINF:-1,Viet Song TV 47.7 WKTB – Atlanta-Georgia
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+
+
+
+#EXTINF:-1,DigiSport3
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
+#EXTINF:-1,novaSport1
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:-1,Eurosport2
+http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
+
+#EXTINF:-1,BT Sports 1
+http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
+#EXTINF:-1,BT Sports 2
+http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
+#EXTINF:-1,BT Sports Europe
+http://185.59.222.65:8080/MHAJbmmhhjPIAmbteuro/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky3/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky4/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8
+
+#EXTM3U
+#EXTINF:0,Sky sport HD
+http://51.255.81.190:8080/IT-SKYSPORT1/mono.m3u8
+#EXTINF:0,Sky sport 2 HD
+http://51.255.81.190:8080/IT-SKYSPORT2/mono.m3u8
+#EXTINF:0,Bein Sport 1
+http://51.255.81.190:8080/FR-BEINSPORT-1/mono.m3u8
+#EXTINF:0,Bein sport 2
+http://51.255.81.190:8080/FR-BEINSPORT-2/mono.m3u8
+#EXTINF:0,Sky Sport 1 DE
+http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
+#EXTINF:0,Sky Sport 2 DE
+http://51.255.81.190:8080/DE-Sky-Sport-2HD/mono.m3u8
+#EXTINF:0,Fox Sport 1
+http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
+#EXTINF:0,Fox Sport 2
+http://51.255.81.190:8080/NL:Fox.Sports.2/mono.m3u8
+#EXTINF:0,Sky Sport 3 UK
+http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
+#EXTINF:0,Sky Sport 4 UK
+http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
+#EXTINF:0,Sky Sport 5 UK
+http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8

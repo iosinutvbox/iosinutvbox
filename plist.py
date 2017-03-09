@@ -1,4 +1,4 @@
-#!/usr/bin/python
+n#!/usr/bin/python
 #coding=utf-8
 import httplib2, json, re, urllib, os, uuid, contextlib, zipfile, random, base64, time
 # Tham khảo xbmcswift2 framework cho kodi addon tại
@@ -11,8 +11,8 @@ addons_folder = xbmc.translatePath('special://home/addons')
 image         = xbmc.translatePath(os.path.join(path, "icon.png"))
 
 plugin         = Plugin()
-addon          = xbmcaddon.Addon("plugin.video.IOSinU.2017")
-pluginrootpath = "plugin://plugin.video.IOSinU.2017"
+addon          = xbmcaddon.Addon("plugin.video.IOSinU.vn")
+pluginrootpath = "plugin://plugin.video.IOSinU.vn"
 http           = httplib2.Http(cache, disable_ssl_certificate_validation=True)
 query_url      = "https://docs.google.com/spreadsheets/d/{sid}/gviz/tq?gid={gid}&headers=1&tq={tq}"
 sheet_headers  = {

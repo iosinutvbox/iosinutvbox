@@ -28,7 +28,7 @@ def GetSheetIDFromSettings():
 	url_path : string
 		link chứa nội dung m3u playlist
 	'''
-	sid = "14mTPg51F2RYjlkcMe6MxStdGBWJ0FEn6UZVEWX7uEpg"
+	sid = "1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc"
 	resp, content = http.request(plugin.get_setting("GSheetURL"),"HEAD")
 	try:
 		sid = re.compile("/d/(.+?)/").findall(resp["content-location"])[0]
@@ -167,7 +167,7 @@ def getItems(url_path="0"):
 			item["path"] = pluginrootpath + "/executebuiltin/-"
 		else:
 			if "spreadsheets/d/" in item["path"]:
-				# https://docs.google.com/spreadsheets/d/14mTPg51F2RYjlkcMe6MxStdGBWJ0FEn6UZVEWX7uEpg/edit#gid=0
+				# https://docs.google.com/spreadsheets/d/1PWajv67U3By-SHlp1flJbPKOV-8iXyrH2_yzH6Kjwrc/edit#gid=0
 				match = re.compile('&cache=(.+?)($|&)').findall(item["path"])
 				sheet_id = re.compile("/d/(.+?)/").findall(item["path"])[0]
 				try:
@@ -673,7 +673,7 @@ def GA(title="Home",page="/"):
 		client_id = open(cid_path).read()
 		data      = {
 			'v'   : '1',
-			'tid' : 'UA-96351357-1', #Thay GA id của bạn ở đây
+			'tid' : 'UA-96349424-1', #Thay GA id của bạn ở đây
 			'cid' : client_id,
 			't'   : 'pageview',
 			'dp'  : "plist%s" % page,

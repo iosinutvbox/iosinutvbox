@@ -566,7 +566,7 @@ def get_playable_url(url):
 		url = getGDriveHighestQuality(url)
 	elif "fshare.vn/file" in url:
 		http.follow_redirects = False
-		get_fshare = "https://docs.google.com/spreadsheets/d/13VzQebjGYac5hxe1I-z1pIvMiNB0gSG7oWJlFHWnqsA/export?format=tsv&gid=0"
+		get_fshare = "https://docs.google.com/spreadsheets/d/1SEex7ldy4rTHBJmnPKum3p7hmM53dVMEf6J25vojZiE/pub?gid=0&single=true&output=tsv"
 		try:
 			(resp, content) = http.request(
 				get_fshare, "GET"

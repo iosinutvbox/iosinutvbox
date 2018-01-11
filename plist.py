@@ -12,8 +12,8 @@ addons_folder = xbmc.translatePath('special://home/addons')
 image         = xbmc.translatePath(os.path.join(path, "icon.png"))
 
 plugin         = Plugin()
-addon          = xbmcaddon.Addon("plugin.video.GrounDIY.Media.IPTV")
-pluginrootpath = "plugin://plugin.video.GrounDIY.Media.IPTV"
+addon          = xbmcaddon.Addon("plugin.GrounDIY.IPTV.Media")
+pluginrootpath = "plugin.GrounDIY.IPTV.Media"
 http           = httplib2.Http(cache, disable_ssl_certificate_validation=True)
 query_url      = "https://docs.google.com/spreadsheets/d/{sid}/gviz/tq?gid={gid}&headers=1&tq={tq}"
 sheet_headers  = {
@@ -22,7 +22,7 @@ sheet_headers  = {
 }
 
 def GetSheetIDFromSettings():
-	sid = "12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A"
+	sid = "1rFom1XNieCQAmmhNR7t-JyRDushJWC3qkMfZ5oQnBgM"
 	resp, content = http.request(plugin.get_setting("GSheetURL"),"HEAD")
 	try:
 		sid = re.compile("/d/(.+?)/").findall(resp["content-location"])[0]
@@ -150,8 +150,8 @@ def getItems(url_path="0", tq="select A,B,C,D,E"):
 		if "plugin://" in item["path"]:
 			if "install-repo" in item["path"]:
 				item["is_playable"] = False
-			elif re.search("plugin.video.GrounDIY.Media.IPTV/(.+?)/.+?\://", item["path"]):
-				match = re.search("plugin.video.GrounDIY.Media.IPTV(/.+?/).+?\://", item["path"])
+			elif re.search("plugin.GrounDIY.IPTV.Media/(.+?)/.+?\://", item["path"]):
+				match = re.search("plugin.GrounDIY.IPTV.Media(/.+?/).+?\://", item["path"])
 				tmp = item["path"].split(match.group(1))
 				tmp[-1] = urllib.quote_plus(tmp[-1])
 				item["path"] = match.group(1).join(tmp)
@@ -168,7 +168,7 @@ def getItems(url_path="0", tq="select A,B,C,D,E"):
 			item["path"] = pluginrootpath + "/executebuiltin/-"
 		else:
 			if "spreadsheets/d/" in item["path"]:
-				# https://docs.google.com/spreadsheets/d/12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A/edit?pli=1#gid=0
+				# https://docs.google.com/spreadsheets/d/1zL6Kw4ZGoNcIuW9TAlHWZrNIJbDU5xHTtz-o8vpoJss/edit#gid=0
 				match_cache = re.search('cache=(.+?)($|&)',item["path"])
 				match_passw = re.search('passw=(.+?)($|&)',item["path"])
 

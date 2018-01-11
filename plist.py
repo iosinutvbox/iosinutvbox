@@ -22,7 +22,7 @@ sheet_headers  = {
 }
 
 def GetSheetIDFromSettings():
-	sid = "1rFom1XNieCQAmmhNR7t-JyRDushJWC3qkMfZ5oQnBgM"
+	sid = "12_WhMHe_FmmQZ6V4Ll6GFMJNR5wbrNJfmC5JNQRjL2A"
 	resp, content = http.request(plugin.get_setting("GSheetURL"),"HEAD")
 	try:
 		sid = re.compile("/d/(.+?)/").findall(resp["content-location"])[0]
@@ -1026,14 +1026,3 @@ if os.path.exists(cid_path)==False:
 
 if __name__ == '__main__':
 	plugin.run()
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog

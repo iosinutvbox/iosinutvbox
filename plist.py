@@ -628,7 +628,7 @@ def AddTracking(items):
 	'''
 
 	for item in items:
-		if "plugin.video.HieuHien.vn" in item["path"]:
+		if "plugin.GrounDIY.IPTV.Media" in item["path"]:
 			tmps = item["path"].split("?")
 			if len(tmps) == 1:
 				tail = ""
@@ -1026,3 +1026,14 @@ if os.path.exists(cid_path)==False:
 
 if __name__ == '__main__':
 	plugin.run()
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog

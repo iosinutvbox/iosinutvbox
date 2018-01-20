@@ -1,4 +1,4 @@
-<dir><title>[B][COLOR white]1-Click Play [COLOR red](No Pair Needed)[/COLOR][/B]</title><link>https://raw.githubusercontent.com/iosinutvbox/iosinutvbox/master/phimdirect.xml</link></dir>
+<dir><title>[B][COLOR white]Phim Direct  [COLOR red][/COLOR][/B]</title><link>https://raw.githubusercontent.com/iosinutvbox/iosinutvbox/master/phimdirect.xml</link></dir>
 <dir><title>[B][COLOR white]Upcoming[/COLOR][/B]</title><tmdb>movie/upcoming</tmdb></dir>
 <dir><title>[B][COLOR white]Trending[/COLOR][/B]</title><trakt>https://api.trakt.tv/movies/trending</trakt></dir>
 <dir><title>[B][COLOR white]In Theaters[/COLOR][/B]</title><tmdb>movies/now_playing</tmdb></dir>

@@ -1,6 +1,6 @@
 <dir><title>[B][COLOR white]Live TV[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/livetv.xml</link></dir>
 <dir><title>[B][COLOR white]PHIM US CINEMA[/COLOR][/B]</title><link>https://raw.githubusercontent.com/iosinutvbox/iosinutvbox/master/uscinema.xml</link></dir>
-<dir><title>[B][COLOR white]PHIM MEDIA[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshows.xml</link></dir>
+<dir><title>[B][COLOR white]PHIM MEDIA[/COLOR][/B]</title><link>plugin.video.GrounDIY.PHIMEDIA</link></dir>
 <dir><title>[B][COLOR white]TV Shows[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/tvshows.xml</link></dir>
 <dir><title>[B][COLOR white]Kids[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/kids.xml</link></dir>
 <dir><title>[B][COLOR white]Radio[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/radio.xml</link></dir>

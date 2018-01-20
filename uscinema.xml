@@ -5,6 +5,6 @@
 <dir><title>[B][COLOR white]Ưa Chuộn[/COLOR][/B]</title><tmdb>movies/popular</tmdb></dir>
 <dir><title>[B][COLOR white]Đang Hot[/COLOR][/B]</title><tmdb>movies/top_rated</tmdb></dir>
 <dir><title>[B][COLOR white]Sưu Tầm[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviecollections.xml</link></dir>
-<dir><title>[B][COLOR white]Thể Loại[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/moviegenres.xml</link></dir>
+<dir><title>[B][COLOR white]Thể Loại - Genres[/COLOR][/B]</title><link>https://raw.githubusercontent.com/iosinutvbox/iosinutvbox/master/usgenres.xml</link></dir>
 <dir><title>[B][COLOR white]Theo Năm[/COLOR][/B]</title><link>https://raw.githubusercontent.com/judgementwiz/judgement/master/media/movieyears.xml</link></dir>
 <dir><title>[B][COLOR white]Tìm Phim[/COLOR][/B]</title><tmdb>search</tmdb></dir>
